@@ -62,7 +62,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`userId`, `username`, `password`, `name`) VALUES
-(1, 'milica', 'milica', 'Milica Bogdanovic');
+(1, 'vladan', 'vladan', 'Vladan Simonovic');
 
 --
 -- Indexes for dumped tables
